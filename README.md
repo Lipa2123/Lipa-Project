@@ -1,3 +1,3 @@
 # Lipa-Project
-This is hotel reservation system project
+This is Farm Management System project
 Like this project! :)
